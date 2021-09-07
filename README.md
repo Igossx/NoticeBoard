@@ -1,2 +1,2 @@
 # Notice-Board
-A simple job board application with a concurrent server
+A simple board application with a concurrent server
